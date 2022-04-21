@@ -1,0 +1,6 @@
+2) (Prototype)Se debe incluir un contrato por cada docente, este contrato tiene varios atributos
+en común como ser: Sueldo, Carga_Horaria, Curso_Educacion_Superior, AccesoPlataforma,
+Marcado Biometrico, Marcado Hora de Entrada, Marcado hora de Salida, Nombre, Apellido. se
+desea registrar a 15 docentes donde tienen varios valores en común Sueldo : 5000
+Carga_Horaria : 80 Curso_Educacion_Superior : true AccesoPlataforma : true Marcado
+Biometrico : false Marcado Hora de Entrada : 08:00 Marcado hora de Salida : 18:00

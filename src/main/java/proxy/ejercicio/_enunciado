@@ -1,0 +1,8 @@
+Proxy
+- Se tiene una una persona que hace distintos tipos de peticiones a un servidor
+como descarga de archivos, carga de archivos. se tiene un proxy para verificar los
+formatos de los archivos permitidos (.zip, .rar) adicionalmente el proxy debe enviar esa
+información a un servidor secundario para tener el respaldo en tiempo real.
+
+
+

@@ -1,0 +1,9 @@
+Se tiene un software que controla el proceso de carnetización
+* cuando la persona cuenta con todos los requisitos (certificado de nacimiento, pago al banco,
+ficha) se lo envía con el responsable de carnetización directamente
+* cuando solo le falta el certificado de nacimiento se lo manda con el notario para que pueda
+sacar su certificado de nacimiento y luego se lo atiende
+* cuando solo le falta pago al banco se lo manda al cajero para que pueda realizar su pago y
+luego se lo atiende
+* cuando le faltan varios requisitos se lo manda a ayuda al cliente para informarle sobre los
+requisitos

@@ -1,0 +1,13 @@
+
+Colleague1 ---> DEV  (juan1, juan2, juan3,juan4)
+Colleague2 ---> QA  ( jose1,jose2,jose3)
+Colleague3 ---> SM  ( mary1)
+
+
+ConcreteMediator ---> Skype
+
+
+SM --->   DEV - QA
+QA --->   QA
+DEV --->  DEV
+

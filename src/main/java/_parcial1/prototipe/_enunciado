@@ -1,0 +1,4 @@
+15% (prototype)En una fábrica de celulares se crea un nuevo celular que
+tiene : modelo, tamaño, peso, cámara (foco,lente) , imei, origen. El primer celular : modelo=A1 , Peso=60 ,
+ Cámara (foco=10,lente= 5mp) imei=10001 , origen= Bolivia, En esta tienda se desea tener el registro de 3 celulares
+donde el lo que cambia en el imei 10002 , 10003.

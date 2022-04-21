@@ -1,0 +1,16 @@
+Se tiene una empresa de Automóviles que tiene 3 tipos de automóviles
+(Auto a Gasolina,Diesel, Gasolina Especial) estos automóviles tienen los métodos de llenar
+ gasolina (setea un atributo capacidad entre 0 - 100) y estado del combustible( retorna un
+ numero random del 1 al 100), Esta empresa decide vender Automóviles Eléctricos pero este
+ tiene como metodo cargar (setea un número par entre 0-100) y estadoDeElectricidad
+ (retorna numero random entre 1 - 10). se debe adaptar el motoElectrica a la estructura del
+ los primeros automóviles
+
+
+ Auto ----- IAdapter
+ AutoGasolina --- Objetos Contreto 1
+ AutoGasolinaEsp --- Objetos Contreto 2
+ AutoDiesel --- Objetos Contreto 3
+ **** AutoElectricoAdapter ----- ConcreteAdapter
+
+ AutoElectrico ---- adaptee

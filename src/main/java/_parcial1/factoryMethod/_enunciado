@@ -1,0 +1,3 @@
+10% (factory method)Se desea tener una forma fácil de crear específicos Elementos de interfaz
+(Controles). Estos Controles son : TextBox ,Link, Table, CheckBox, ComboBox y todos necesitan setean
+los atributos de tamaño y forma.

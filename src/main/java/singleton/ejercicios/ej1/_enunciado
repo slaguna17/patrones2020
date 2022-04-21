@@ -1,0 +1,5 @@
+se tiene un/varios acceso a retiro de dinero (Cajero/Banco) - (400) ,
+varias personas tratan de retirar dinero al mismo tiempo (concurrencia), con los montos siguientes
+1P --- 100
+2P --- 200
+3P --- 300

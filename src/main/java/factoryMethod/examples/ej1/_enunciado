@@ -1,0 +1,14 @@
+Se tiene una empresa de aeronaves ( cliente),
+esta empresa tiene distintos vuelos que ofrecer, cuando tiene un vuelo necesita crear los pasajes con caracteristicas :
+
+Pasaje
+=========
+numero_vuelo
+destino (pais , ciudad)
+origen (pais , ciudad)
+avion (marca,numeroTotalAsiento)
+pasajero  (nombre , ci)
+numero de asiento
+costo
+
+La empresa desea crear 3 pasajes donde lo unico que cambia es pasajero & numero de asiento

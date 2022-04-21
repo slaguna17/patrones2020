@@ -1,0 +1,29 @@
+Abstract Factory
+
+se tiene una heladeria que realiza 3 tipos de helados en especifico (Agua /Crema / Mixtos)
+
+Agua
+-----
+tamano
+forma
+fruta (tipoFruta,nombre,costo)
+base (nombre, tipo [cono/vaso/otro])
+
+Crema
+------
+tamano
+forma
+fruta (tipoFruta,nombre,costo)
+base (nombre, tipo [cono/vaso/otro])
+crema (sabor,costo)
+
+
+Mixtos
+-------
+tamano
+forma
+fruta (tipoFruta,nombre,costo)
+base (nombre, tipo [cono/vaso/otro])
+crema (sabor,costo)
+
+Crear 2 Objetos de cada tipo de helado  (6)

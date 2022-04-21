@@ -1,0 +1,3 @@
+Se tiene distintos tipos de entidades (Persona , Robot u otro) usados por algun cliente,
+lo que se requere es registrar con un log todas las acciones que realizan dichas entidades
+(cuando se instancias, metodos, getter,setter.).

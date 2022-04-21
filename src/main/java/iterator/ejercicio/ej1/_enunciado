@@ -1,0 +1,9 @@
+Persona (nombre, ci)
+
+*ListS1  ----> []    --- 5 personas como minimo
+ListS2  ----> List <> --- 5 personas como minimo
+*ListS3  ----> Vector <> --- 5 personas como minimo
+//test
+// test2
+Map<Persona> TodasPersonas = new HashMap<Persona>
+

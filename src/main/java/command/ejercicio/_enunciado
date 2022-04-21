@@ -1,0 +1,6 @@
+Se tiene una computadora con acciones como reiniciar, apagar, suspender, cerrar sesión,
+se desea convertir estas acciones en comandos específicos. se debe tomar en cuenta que
+cuando realizamos cualquiera de estas acciones como comando debemos guardar la hora
+actual cuando se hizo la acción y el usuario.
+
+- Computadora  = reiniciar, apagar, suspender, cerrar sesión

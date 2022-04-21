@@ -1,0 +1,9 @@
+cadena input = " 1 + 2 - 3 + 5 - 8 + 7"
+solo se tiene los operadores de + y -
+
+interpreter
+
+int = 4
+string = "4"
+
+.

@@ -1,0 +1,4 @@
+3) (FactoryMethod)Se debe crear kit de utilies escolares donde existen 2 tipos de kit,
+kit_escolar y kit_colegial, donde kit_Ecolar cuenta con mochila (numero bolsillos, tamaño),
+deportivo (talla, color, número de prendas), cuadernos(tipo, #hojas) y el kit_colegial cuenta con
+mochila(numero bolsillos, tamano), libros(tipo, autor), computadora(marca, os).

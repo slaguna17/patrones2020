@@ -1,0 +1,2 @@
+10% (abstract factory)Se desea tener una forma fácil de crear específicos Elementos de
+interfaz (Controles). Estos Controles son : TextBox,Link, Table, CheckBox, ComboBox.

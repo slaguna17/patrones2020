@@ -1,0 +1,11 @@
+Persona
+
+  getEdad()
+  getTimeNombre()  //no deberia ser overwrite
+  showData
+
+- Estudiante
+
+- Docente
+
+- Director

@@ -1,0 +1,19 @@
+PayPal  <--- IAdapter
+
+  - documento de identidad
+  - monto dinero
+
+BCP  <--- Concrete Element
+
+Union  <--- Concrete Element
+
+Bisa  <--- Concrete Element
+
+***** AdaptadorMercantilSantaCruz  <--- Concrete Adapter
+
+-----------------------------------
+
+Mercantil SantaCruz   < ------- Adaptee
+
+   - carnet
+   - saldo

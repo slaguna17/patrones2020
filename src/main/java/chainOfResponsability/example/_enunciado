@@ -1,0 +1,15 @@
+
+Persona (nombre, ci, montoPrestamo)
+
+4 Personas (juan1, juan2, juan3 , juan4) ---> Threads
+
+-------------- Cadena De Responsabilidad ----------
+Banco
+
+1) Agente Credito Local  ---> 0 - 10k
+2) Agente Credito Sucursal  -->  10k - 20k
+3) Agente Credito Dept  ---> 20k - 50 k
+4) Agente Credito Nac --->   sin limite
+
+**********************************
+Singleton -- > Caja  Amount 70k

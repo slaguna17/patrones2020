@@ -1,0 +1,13 @@
+- versionador de codigo
+
+- criterio msg  (Alias)
+
+
+v1 123    -----> commit iniciando
+v2 122
+v3 333    -----> commit add method
+v4 445
+v5 5555   ------> commit main method
+
+
+ restore "commit iniciando"

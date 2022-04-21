@@ -1,0 +1,5 @@
+15% (mediator)Se tiene un un juego donde los jugadores (nombre, rate) necesitan
+omunicarse con los otros miembros del mismo equipo de juego donde la comunicación solo
+ debe ser entre el mismo equipo, también existe la opción de comunicación de jugador a jugador
+ cuando pertenecen a diferentes equipos. se tienen 2 equipos equipo A : jugadorA1, jugadorA2, jugador A3
+ equipo B : jugadorB1, jugadorB2, jugador B3

@@ -1,0 +1,6 @@
+se tiene una maquina dispensadora de productos, dependiendo el estado (monto de dinero que se introduce en la maquina)
+cambia su comportamiento
+
+Monto es exacto = entrega solo el producto
+Monto es insuficiente =  devuelve el monto de dinero
+Monto es superior al precio = entregado producto y cambio

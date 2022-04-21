@@ -1,0 +1,5 @@
+5) Se tiene un canal de youtube donde almacena videos (tipo,titulo,tiempo,categoría), en este
+canal se suscriben como observer 5 personas, cada vez que el canal de youtube agrega un
+nuevo video se debe notificar a los observadores. adicionalmente cada observador puede
+indicar cuándo quiere que le lleguen las notificación segun la categoria del video que
+selecciones (si selecciona anyCategory siempre le llegan notificaciones)
